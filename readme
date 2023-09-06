@@ -1,0 +1,9 @@
+ntroducing a full-stack web development project that brings the magic of Netflix to life! This responsive and feature-rich web application leverages the Netflix API to provide users with a captivating experience. Built with React and Next.js, it offers a seamless and visually appealing way to explore Netflix's vast movie library.
+
+Key Features:
+
+Netflix API Integration: Our project taps into the Netflix API to access an extensive database of movies and TV shows. Users can search for their favorite content and discover new releases effortlessly.
+
+Responsive Design: The web application is meticulously designed to adapt seamlessly to various screen sizes, ensuring a delightful user experience on desktops, tablets, and mobile devices.
+
+Movie Details: Users can access comprehensive movie details, including titles, genres, ratings, descriptions, cast and crew information, and release dates. Dive deep into the world of each film.
